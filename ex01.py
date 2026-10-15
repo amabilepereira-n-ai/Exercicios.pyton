@@ -1,7 +1,3 @@
-#Leia uma temperatura em graus Celsius e mostre o valor em Fahrenheit. Fórmula: F = C × 1.8 + 32.
+nome = input ("Digite seu nome: ")
 
-temperatura = float(input("Digite a temperatura em celsius:"))
-
-F = temperatura * 1.8 + 32
-
-print(f"A temperatura em Fahrenheit é: {F}°F" ) 
+print(f"Olá,{nome} Bem-vindo(a) ao curso de Desenvolvimento de Sistemas.")
